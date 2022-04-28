@@ -1,0 +1,26 @@
+'[{
+    "id":0,
+    "name":"Nahang",
+    "artist":"Sadegh",
+    "img":"a/s.jpg",
+    "path":"a/s.mp3"
+},{
+    "id":1,
+    "name":"Nastaran",
+    "artist":"Farshad",
+    "img":"a.jpg",
+    "path":"a/fa.mp3"
+},{
+    "id":2,
+    "name":"Do",
+    artist:"Arash",
+    "img":"a/f.jpg",
+    "path":"a/f.mp3"
+},{
+    "id":1,
+    "name":"Do",
+    "artist":"Arash",
+    "img":"e.jpg",
+    "path":"k.mp3"
+}
+]'
